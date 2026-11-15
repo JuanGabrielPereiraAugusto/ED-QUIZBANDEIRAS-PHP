@@ -2,6 +2,8 @@
 
 Jogo de perguntas em **PHP** em que o jogador vê a bandeira de um país e precisa adivinhar qual é, entre 4 alternativas, antes que o tempo acabe.
 
+Trabalho acadêmico da disciplina de **Programação Web** na **Fatec Taquaritinga**.
+
 Os dados dos países vêm da API pública **[REST Countries](https://restcountries.com/)**, com nomes em português.
 
 ---
@@ -94,6 +96,18 @@ ED-QUIZBANDEIRAS-PHP/
 - Tempo de resposta validado no servidor, não só no navegador
 - Nome do jogador limpo e limitado antes de salvar no ranking
 - Ranking salvo apenas uma vez por partida
+
+---
+
+## 🎓 Informações acadêmicas
+
+| | |
+|---|---|
+| **Instituição** | Fatec Taquaritinga |
+| **Curso** | Análise e Desenvolvimento de Sistemas |
+| **Disciplina** | Programação Web |
+| **Professor** | Danilo Antonio Sichieri |
+| **Ano** | 2026 |
 
 ---
 
